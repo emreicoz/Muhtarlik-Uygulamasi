@@ -1,0 +1,10 @@
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\bin\Debug\Muhtarlık.pdb
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\obj\Debug\Muhtarlık.Aileler.resources
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\obj\Debug\Muhtarlık.Ana_Sayfa.resources
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\obj\Debug\Muhtarlık.csproj.GenerateResource.cache
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\obj\Debug\Muhtarlık.pdb
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\bin\Debug\Muhtarlık.exe
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\obj\Debug\Muhtarlık.exe
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\obj\Debug\Muhtarlık.Giris.resources
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\obj\Debug\Muhtarlık.csprojAssemblyReference.cache
+C:\Users\emre1\source\repos\Muhtarlık\Muhtarlık\obj\Debug\Muhtarlık.KisiBilgiler.resources

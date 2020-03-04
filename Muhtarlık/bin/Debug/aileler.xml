@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aileler>
+  <Aile>
+    <Aile_Adı>aile1</Aile_Adı>
+    <Kapı_No>1</Kapı_No>
+    <Bireyler>
+      <Birey>
+        <Id>0</Id>
+        <Ad_Soyad>1</Ad_Soyad>
+        <TC_No>1</TC_No>
+        <Telefon>(1  )    -</Telefon>
+        <Adres>1</Adres>
+        <Cinsiyet>Erkek</Cinsiyet>
+        <Doğum_Tarihi>22.01.2020</Doğum_Tarihi>
+        <Kan_Grubu>AB Rh+</Kan_Grubu>
+        <Öğrenim_Bilgisi>1</Öğrenim_Bilgisi>
+        <Toplam_Gün>1</Toplam_Gün>
+        <Verdiği_Ürün>1</Verdiği_Ürün>
+        <Ne_Kadar_Verdiği>1</Ne_Kadar_Verdiği>
+        <Traktör_Varlığı>1</Traktör_Varlığı>
+        <Otomobil_Varlığı>1</Otomobil_Varlığı>
+        <Hayvan_Varlığı>1</Hayvan_Varlığı>
+      </Birey>
+      <Birey>
+        <Id>1</Id>
+        <Ad_Soyad>2</Ad_Soyad>
+        <TC_No>2</TC_No>
+        <Telefon>( 2 )    -</Telefon>
+        <Adres>2</Adres>
+        <Cinsiyet>Erkek</Cinsiyet>
+        <Doğum_Tarihi>31.01.2020</Doğum_Tarihi>
+        <Kan_Grubu>
+        </Kan_Grubu>
+        <Öğrenim_Bilgisi>
+        </Öğrenim_Bilgisi>
+        <Toplam_Gün>0</Toplam_Gün>
+        <Verdiği_Ürün>2</Verdiği_Ürün>
+        <Ne_Kadar_Verdiği>0</Ne_Kadar_Verdiği>
+        <Traktör_Varlığı>0</Traktör_Varlığı>
+        <Otomobil_Varlığı>2</Otomobil_Varlığı>
+        <Hayvan_Varlığı>0</Hayvan_Varlığı>
+      </Birey>
+    </Bireyler>
+  </Aile>
+  <Aile>
+    <Aile_Adı>aile2</Aile_Adı>
+    <Kapı_No>2</Kapı_No>
+    <Bireyler>
+      <Birey>
+        <Id>2</Id>
+        <Ad_Soyad>2</Ad_Soyad>
+        <TC_No>2</TC_No>
+        <Telefon>(3  )    -</Telefon>
+        <Adres>3</Adres>
+        <Cinsiyet>Kadın</Cinsiyet>
+        <Doğum_Tarihi>14.01.2020</Doğum_Tarihi>
+        <Kan_Grubu>A Rh+</Kan_Grubu>
+        <Öğrenim_Bilgisi>sd</Öğrenim_Bilgisi>
+        <Toplam_Gün>100</Toplam_Gün>
+        <Verdiği_Ürün>1000</Verdiği_Ürün>
+        <Ne_Kadar_Verdiği>200</Ne_Kadar_Verdiği>
+        <Traktör_Varlığı>0</Traktör_Varlığı>
+        <Otomobil_Varlığı>400</Otomobil_Varlığı>
+        <Hayvan_Varlığı>0</Hayvan_Varlığı>
+      </Birey>
+      <Birey>
+        <Id>3</Id>
+        <Ad_Soyad>4</Ad_Soyad>
+        <TC_No>4</TC_No>
+        <Telefon>(4  )    -</Telefon>
+        <Adres>4</Adres>
+        <Cinsiyet>
+        </Cinsiyet>
+        <Doğum_Tarihi>21.01.2020</Doğum_Tarihi>
+        <Kan_Grubu>
+        </Kan_Grubu>
+        <Öğrenim_Bilgisi>
+        </Öğrenim_Bilgisi>
+        <Toplam_Gün>4</Toplam_Gün>
+        <Verdiği_Ürün>
+        </Verdiği_Ürün>
+        <Ne_Kadar_Verdiği>4</Ne_Kadar_Verdiği>
+        <Traktör_Varlığı>4</Traktör_Varlığı>
+        <Otomobil_Varlığı>4</Otomobil_Varlığı>
+        <Hayvan_Varlığı>4</Hayvan_Varlığı>
+      </Birey>
+    </Bireyler>
+  </Aile>
+  <Aile>
+    <Aile_Adı>aile3</Aile_Adı>
+    <Kapı_No>3</Kapı_No>
+    <Bireyler>
+    </Bireyler>
+  </Aile>
+</Aileler>
